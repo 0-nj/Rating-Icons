@@ -1,0 +1,34 @@
+[
+  {
+    "name": "IMDb (IM)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/imdb.png"
+  },
+  {
+    "name": "Rotten Tomatoes Tomatometer (RT)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/rotten-tomatoes.png"
+  },
+  {
+    "name": "Metacritic (MC)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/metacritic.png"
+  },
+  {
+    "name": "Letterboxd (LB)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/letterboxd.png"
+  },
+  {
+    "name": "Rotten Tomatoes Audience (RT)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/rotten-tomatoes-audience.png"
+  },
+  {
+    "name": "TMDb Icon (TMDB)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/tmdb-icon.png"
+  },
+  {
+    "name": "TMDb Logo (TMDB)",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/tmdb-logo.png"
+  },
+  {
+    "name": "Trakt",
+    "url": "https://raw.githubusercontent.com/0-nj/Rating-Icons/main/trakt.png"
+  }
+]
